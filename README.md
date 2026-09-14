@@ -76,13 +76,19 @@ RA=7.2KΩ, RB= 3.6KΩ
 
 
   **CIRCUIT DIAGRAM**
+<img width="1600" height="1131" alt="image" src="https://github.com/user-attachments/assets/bbed6762-56a0-435b-884b-f2ffd6c57f9e" />
+<img width="1600" height="1070" alt="image" src="https://github.com/user-attachments/assets/6e22a306-b1c6-4a8b-8417-e3b92ac6248e" />
 
 
   **MODEL GRAPH:**
+<img width="1600" height="1175" alt="image" src="https://github.com/user-attachments/assets/c18ca778-1f0e-4f32-9a4e-79c64a1ab2cf" />
+<img width="1600" height="1240" alt="image" src="https://github.com/user-attachments/assets/21f94ab6-c89d-4423-ae22-e7d7c113f826" />
 
 
   **TABULATION:**
- 
+ <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/ef67b227-1b94-4967-97a7-07327eebb7f2" />
+<img width="1600" height="711" alt="image" src="https://github.com/user-attachments/assets/9ebf28e3-00d1-4b94-8b44-d7788789c5b8" />
+
 
 
 
